@@ -1,7 +1,7 @@
 ![Banner](https://raw.githubusercontent.com/ayogun/42-project-badges/main/covers/cover-libft-bonus.png)
 
 <p align="center">
-  <img src="https://gitlab.com/uploads/-/system/project/avatar/41481492/Libft.png" alt="Libft Logo">
+  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft Logo">
 </p>
 
 <p align="center">
