@@ -1,8 +1,11 @@
 ![Banner](https://raw.githubusercontent.com/15Galan/42_project-readmes/master/banners/cursus/projects/libft-dark.png)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft Logo">
+  <a href="https://github.com/francfer-art/42Libft">
+    <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft Logo">
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Libft Score">
