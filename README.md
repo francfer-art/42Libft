@@ -4,9 +4,6 @@
   <img src="https://gitlab.com/uploads/-/system/project/avatar/41481492/Libft.png" alt="Libft Logo">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Score-125%2F100-brightgreen" alt="Libft Score">
-</p>
 
 Libft is a custom C library that provides a collection of useful functions for everyday programming tasks. It serves as a fundamental building block for your C projects, offering a set of handcrafted functions that can be used across a variety of applications.
 
