@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/ayogun/42-project-badges/main/covers/cover-libft-bonus.png)
+![Banner](https://raw.githubusercontent.com/15Galan/42_project-readmes/master/banners/cursus/projects/libft-dark.png)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ayogun/42-project-badges/main/badges/libftm.png" alt="Libft Logo">
