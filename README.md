@@ -1,4 +1,6 @@
-![Banner](https://raw.githubusercontent.com/15Galan/42_project-readmes/master/banners/cursus/projects/libft-dark.png)
+<a href="https://github.com/francfer-art/42Libft?tab=readme-ov-file">
+    <img src="https://raw.githubusercontent.com/15Galan/42_project-readmes/master/banners/cursus/projects/libft-dark.png" alt="Banner">
+</a>
 
 <p align="center">
   <a href="https://github.com/francfer-art/42Libft">
